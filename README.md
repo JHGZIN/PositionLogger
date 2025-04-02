@@ -1,1 +1,6 @@
-# savedpositions
+# CoordsSaver
+
+**COMANDOS**
+```
+   /savepos
+```
