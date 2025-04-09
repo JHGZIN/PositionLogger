@@ -1,6 +1,6 @@
-# CoordsSaver
+# FILTERSCRIPTS SAVEPOS
 
 **COMANDOS**
 ```
-/savepos
+/savepos (comentário opcional)
 ```
